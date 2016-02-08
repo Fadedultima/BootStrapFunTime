@@ -1,3 +1,17 @@
 #logo {
     height: 50px;
 }
+
+#whenwhere {
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
+
+.page-header {
+    text-align: center;
+}
+
+.row {
+    margin-top: 20px;
+}
