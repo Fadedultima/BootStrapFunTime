@@ -2,16 +2,82 @@
     height: 50px;
 }
 
+#home {
+    margin-top: 51px;
+    background-color: black;
+}
+
 #whenwhere {
+    color: white;
+    font-size: 15px;
+}
+
+#ContactUs {
     background-color: black;
     color: white;
-    font-size: 20px;
+    padding-bottom: 30px;
+}
+
+.tranBox {
+    background-color: black;
+    opacity: .7;
+    color: yellow
+}
+
+.meow:hover {
+    border-style: solid;
+    border-width: 2px;
+    border-color: antiquewhite;
+    cursor: pointer;
+}
+
+#cena {
+    color: white;
+}
+
+#knope {
+    color: white;
+}
+
+#free {
+    color: white;
+}
+
+p {
+    margin-top: 10px;
+    text-align: center;
+    font-size: 15px;
+}
+
+.well {
+    background-color: black;
+}
+
+.jumbotron {
+    background-color: dimgray;
+}
+
+a {
+    color: yellow;
+}
+
+h2 {
+    text-align: center;
+}
+
+balloonblast {
+    color: white;
+}
+
+.tab-pane {
+    color: white;
 }
 
 .page-header {
     text-align: center;
+    color: white;
 }
 
 .row {
-    margin-top: 20px;
+    margin-top: 10px;
 }
